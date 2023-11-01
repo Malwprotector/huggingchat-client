@@ -28,7 +28,7 @@ To use the HuggingChat client, follow these steps:
      your_password
      ```
 
-   **Note**: Ensure that you have the appropriate permissions to access HuggingChat.
+   **Note**: If you don't have a huggingchat account, you'll need to create one [on huggingchat.]https://huggingface.co/chat/)
 
 3. **Set Up the Prompt**:
    - Create a file named `prompt` and write the initial user message you want to start the conversation with.
@@ -37,11 +37,11 @@ To use the HuggingChat client, follow these steps:
    - Execute the client code using Python.
 
 ```bash
-python huggingchat_client.py
+python client.py
 ```
 or
 ```bash
-python3 huggingchat_client.py
+python3 client.py
 ```
 
 ## Interaction
@@ -50,13 +50,11 @@ python3 huggingchat_client.py
    - Type your messages in the input field and press `Enter` or click the "Send" button to send them to the chatbot.
 
 2. **Exiting the Client**:
-   - Type "exit" in the input field and press `Enter` to close the client.
+   - Type "exit" in the input field and press `Enter` or use the "Close" button to close the client.
 
 ## GUI Interface
 
 - The GUI window contains a conversation display area, an input field, and "Send" and "Close" buttons.
-
-- The conversation display area shows the conversation history between the user and the chatbot. User messages are displayed in blue, and bot responses are displayed in green.
 
 - The input field allows you to type messages to interact with the chatbot.
 
@@ -76,4 +74,4 @@ python3 huggingchat_client.py
 
 ## Conclusion
 
-You are now ready to use the HuggingChat client. Enjoy interacting with the chatbot using this user-friendly interface! If you encounter any issues or have further questions, refer to the documentation or seek assistance from the developers.
+You are now ready to use the HuggingChat client. Enjoy interacting with the chatbot using this interface! If you encounter any issues or have further questions, don't hesitate to ask.
