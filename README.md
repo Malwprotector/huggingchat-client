@@ -28,7 +28,7 @@ To use the HuggingChat client, follow these steps:
      your_password
      ```
 
-   **Note**: If you don't have a huggingchat account, you'll need to create one [on huggingchat.]https://huggingface.co/chat/)
+   **Note**: If you don't have a huggingchat account, you'll need to create one [on huggingchat.](https://huggingface.co/chat/)
 
 3. **Set Up the Prompt**:
    - Create a file named `prompt` and write the initial user message you want to start the conversation with.
