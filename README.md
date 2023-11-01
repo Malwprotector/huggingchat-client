@@ -2,11 +2,11 @@
 
 ## Introduction
 
-The HuggingChat client is a graphical user interface (GUI) for interacting with the HuggingChat, an open-source large language model developed by OpenAI. This client provides a user-friendly interface to communicate with the chatbot using text input.
+The HuggingChat client is a graphical user interface (GUI) for interacting with the HuggingChat, an open-source large language model developed by Hugging Face, an artificial intelligence company founded in 2016. This client provides a user-friendly interface to communicate with the chatbot using text input. This client uses the Unofficial HuggingChat Python API, you can find it [here.](https://github.com/Soulter/hugging-chat-api)
 
 ## Prerequisites
 
-Before running the HuggingChat client, ensure you have the following:
+Before running this HuggingChat client, ensure you have the following:
 
 - Python installed on your system (version 3.6 or higher).
 - The required libraries installed. You can install them using the following command:
@@ -38,6 +38,10 @@ To use the HuggingChat client, follow these steps:
 
 ```bash
 python huggingchat_client.py
+```
+or
+```bash
+python3 huggingchat_client.py
 ```
 
 ## Interaction
